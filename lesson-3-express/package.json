@@ -1,0 +1,16 @@
+{
+  "name": "lesson-3-express",
+  "version": "1.0.0",
+  "description": "Nauka Express.js",
+  "scripts": {
+    "basic": "node 01-basic.js",
+    "routing": "node 02-routing.js",
+    "middleware": "node 03-middleware.js",
+    "api": "node 04-full-api.js",
+    "templates": "node 05-template-engine.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "ejs": "^3.1.9"
+  }
+}
