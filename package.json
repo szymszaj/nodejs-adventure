@@ -1,7 +1,6 @@
 {
   "name": "nodejs-adventure",
   "version": "1.0.0",
-  "description": "Nauka Node.js - REST API i GraphQL",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
