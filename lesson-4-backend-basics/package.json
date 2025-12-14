@@ -1,0 +1,26 @@
+{
+  "name": "lesson-4-backend-basics",
+  "version": "1.0.0",
+  "description": "Podstawy backend Node.js",
+  "main": "01-http-server.js",
+  "scripts": {
+    "01": "node 01-http-server.js",
+    "02": "node 02-routing.js",
+    "03": "node 03-file-operations.js",
+    "04": "node 04-environment-variables.js",
+    "05": "node 05-streams.js",
+    "06": "node 06-async-patterns.js"
+  },
+  "keywords": [
+    "nodejs",
+    "backend",
+    "http",
+    "streams",
+    "async"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}
