@@ -1,0 +1,16 @@
+{
+  "name": "lesson-6-auth",
+  "version": "1.0.0",
+  "description": "Node.js - Autentykacja JWT",
+  "scripts": {
+    "01": "node 01-bcrypt-passwords.js",
+    "02": "node 02-jwt-tokens.js",
+    "03": "node 03-auth-server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "*",
+    "jsonwebtoken": "*",
+    "better-sqlite3": "*",
+    "express": "*"
+  }
+}

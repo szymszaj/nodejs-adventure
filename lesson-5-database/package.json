@@ -1,0 +1,14 @@
+{
+  "name": "lesson-5-database",
+  "version": "1.0.0",
+  "description": "Node.js - Baza danych z SQLite",
+  "scripts": {
+    "01": "node 01-sqlite-basics.js",
+    "02": "node 02-repository-pattern.js",
+    "03": "node 03-express-sqlite-api.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "*",
+    "express": "*"
+  }
+}
